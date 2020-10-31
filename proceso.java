@@ -29,10 +29,9 @@ public class proceso {
          }
          
          else{
-         if (contimpar<5){
-          lista.add(num);
+          lista2.add(num);
                  }
-                 }
+                 
          
       par(contpar+1, contimpar+1);
       }
