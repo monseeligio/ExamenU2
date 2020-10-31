@@ -30,7 +30,7 @@ public class proceso {
          
          else{
          if (contimpar<5){
-          lista2.add(num);
+          lista.add(num);
                  }
                  }
          
